@@ -164,7 +164,7 @@ class FootballSession:
                                         self.matches[i].awayGoals, self.matches[i].awayGoalTimes, self.matches[i].awayTeam.name))
 
 
-footballTeams = [FootballTeam("Manchester United", 0.8, 0.7, 0.72, 0.55),
+footballTeams = [FootballTeam("Manchester United", 0.8, 0.7, 0.7, 0.52),
                 FootballTeam("Liverpool", 0.9, 0.6, 0.65, 0.5),
                 FootballTeam("Manchester City", 0.85, 0.6, 0.65, 0.55),
                 FootballTeam("Leicester City", 0.6, 0.7, 0.8, 0.4),
